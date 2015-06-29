@@ -1,6 +1,6 @@
 # Page Ruler
 
-Measure document, viewport and offset without jQuery.
+Measure document, viewport and viewport offset without jQuery.
 
 ## Install
 
