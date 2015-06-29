@@ -1,0 +1,22 @@
+{
+  "name": "page-ruler",
+  "version": "1.0.0",
+  "description": "A set of methods to measure the document, viewport and offset without jQuery.",
+  "author": "Matt Perry <admin@redshiftjs.com>",
+  "homepage": "http://redshiftjs.com",
+  "main": "src/page-ruler.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InventingWithMonster/page-ruler"
+  },
+  "bugs": {
+    "url": "https://github.com/InventingWithMonster/page-ruler/issues"
+  },
+  "keywords": [
+    "viewport",
+    "document",
+    "measurement"
+  ],
+  "analyze": true,
+  "license": "MIT"
+}
